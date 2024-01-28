@@ -1,0 +1,10 @@
+# ide folders
+.idea/
+.vscode/
+
+# not project files
+__pycache__
+.DS_Store
+.env
+main.ipynb
+config.json
